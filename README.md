@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seteshstrong
-- 👀 I’m interested in FOSS communities, intelligence management, and operations and supply chain management.
-- 🌱 I’m currently learning infrastructural operations, competitive intelligence, and stakeholder facilitation.
-- 💞️ I’m looking to collaborate on FreeBSD community development, generative agent development, and SME incubation.
+- 👀 I’m interested in FreeBSD and most unix-likes, discovering better ways to do DevSecOps, exploring digital forensics, and implementing ML whitepapers.
+- 🌱 I’m currently learning everything I can get my hands on, as always.
+- 💞️ I’m looking to collaborate on FreeBSD ports, src, wiki, docs and community development.
 - 📫 How to reach me... you can likely find me at my gmail address, with a dot delimiter between my first and last name.
 
 <!---
