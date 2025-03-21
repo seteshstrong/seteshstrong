@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seteshstrong
-- 👀 Community Coordinator of the FreeBSD Discord Community Helper Teams
+- 👀 Coordinator of the FreeBSD Discord Community Helper Teams
 - 🌱 CompTIA A+, Network+, Security+, Cloud+, and Pentest+ certified.
 - 💞️ I’m looking to facilitate collaboration in the FreeBSD ecosystem, and explore challenges at the intersection of ML and cybersecurity.
 - 📫 How to reach me... you can likely find me at my gmail address, with a dot delimiter between my first and last name.
