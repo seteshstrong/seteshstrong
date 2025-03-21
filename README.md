@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seteshstrong
-- 👀 I’m interested in FreeBSD and most unix-likes, on-prem cloud infrastructure, digital forensics, and RL agents.
-- 🌱 I’m currently studying for CompTIA CySA+. Currently A+, Network+, Security+, Cloud+, and Pentest+ certified.
-- 💞️ I’m looking to collaborate on FreeBSD ports, src, wiki, docs, community development, and interesting cloud/security oriented ML projects.
+- 👀 Community Coordinator of the FreeBSD Discord Community Helper Teams
+- 🌱 CompTIA A+, Network+, Security+, Cloud+, and Pentest+ certified.
+- 💞️ I’m looking to facilitate collaboration in the FreeBSD ecosystem, and explore challenges at the intersection of ML and cybersecurity.
 - 📫 How to reach me... you can likely find me at my gmail address, with a dot delimiter between my first and last name.
 
 <!---
